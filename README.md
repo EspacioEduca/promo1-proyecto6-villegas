@@ -1,4 +1,4 @@
-# Proyecto Galeria de fotos
+# Proyecto Galería de fotos
 
 Objetivo: Aprendizaje sobre uso de arrays.
 
